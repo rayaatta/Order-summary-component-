@@ -21,7 +21,7 @@ body {
     align-items:center;
     justify-content:center;
     background-color:var(--pale-blue);
-    background-image:url(images/mobile.svg);
+    background-image:url(mobile.svg);
     background-repeat:no-repeat;
     background-size:contain;
 }
@@ -108,7 +108,7 @@ button {
 }
 @media screen and (min-width:600px) {
     body {
-        background-image:url(images/back.svg);
+        background-image:url(back.svg);
         
     }
 }
