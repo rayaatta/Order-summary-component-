@@ -1,49 +1,14 @@
-/* # Front-end Style Guide
-
-## Layout
-
-The designs were created to the following widths:
-
-- Mobile: 375px
-- Desktop: 1440px
-
-## Colors
-
-### Primary
-
-- Pale blue: hsl(225, 100%, 94%)
-- Bright blue: hsl(245, 75%, 52%)
-
-### Neutral
-
-- Very pale blue: hsl(225, 100%, 98%)
-- Desaturated blue: hsl(224, 23%, 55%)
-- Dark blue: hsl(223, 47%, 23%)
-
-## Typography
-
-### Body Copy
-
-- Font size (paragraph): 16px
-
-### Font
-
-- Family: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
-- Weights: 500, 700, 900
-*/
-:root {
+:root{
    --pale-blue:hsl(225, 100%, 94%);
     --bright-blue:hsl(245, 75%, 52%);
     --very-pale-blue:hsl(225, 100%, 98%);
      --desaturated-blue:hsl(224, 23%, 55%);
     --dark-blue:hsl(223, 47%, 23%);
-   /* --grey:hsl(229 9% 62%);*/
 }
 * {
     margin:0;
     box-sizing:border-box;
     text-align:center;
-    font-family:sans-serif;
     font-size:1rem;
     font-weight:500;
     font-family: 'Red Hat Display', sans-serif;
