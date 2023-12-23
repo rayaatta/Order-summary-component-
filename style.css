@@ -46,6 +46,8 @@ The designs were created to the following widths:
     font-family:sans-serif;
     font-size:1rem;
     font-weight:500;
+    font-family: 'Red Hat Display', sans-serif;
+
 }
 body {
     min-height:100vh;
