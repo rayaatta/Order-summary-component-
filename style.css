@@ -24,6 +24,7 @@ body {
     background-image:url(mobile.svg);
     background-repeat:no-repeat;
     background-size:contain;
+    position: relative;
 }
 main {
     width:clamp(19.35rem, 19rem, 310px);
@@ -106,9 +107,14 @@ button {
 .cancel:hover {
     color:#000;
 }
+footer {
+   position: absolute;
+   bottom:0;
+}
 @media screen and (min-width:600px) {
     body {
         background-image:url(back.svg);
         
     }
+   
 }
