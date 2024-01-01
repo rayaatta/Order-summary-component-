@@ -109,7 +109,7 @@ button {
 }
 footer {
    position: absolute;
-   bottom:0;
+   bottom:1px;
 }
 @media screen and (min-width:600px) {
     body {
